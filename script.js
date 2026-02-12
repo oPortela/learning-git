@@ -5,3 +5,7 @@ function entrar() {
 function sair() {
     console.log('Saiu do sistema');
 }
+
+function escolherCarro() {
+    console.log('Carro escolhido');
+}
