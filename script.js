@@ -9,3 +9,11 @@ function sair() {
 function escolherCarro() {
     console.log('Carro escolhido');
 }
+
+function escolherMoto() {
+    console.log('Moto escolhida');
+}
+
+function escolherCaminhao() {
+    console.log('Caminhão escolhido');
+}   
